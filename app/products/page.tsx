@@ -90,17 +90,17 @@ const funeralCars = [
   {
     name: "Cadillac Escalade",
     description: "Luxury black Cadillac Escalade for executive funeral processions",
-    image: "/Escalade.jpg",
+    image: "/Escalade.JPG",
   },
   {
     name: "Hummer Jeep",
     description: "Bold and commanding black Hummer for distinguished funeral convoys",
-    image: "/Hummer.jpg",
+    image: "/Hummer.JPG",
   },
   {
     name: "Black Suburban",
     description: "Spacious and elegant black Suburban for family transportation during funeral services",
-    image: "/Suburban.jpg",
+    image: "/Suburban.JPG",
   },
 ]
 
