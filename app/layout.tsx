@@ -10,9 +10,9 @@ const cormorantGaramond = Cormorant_Garamond({
 })
 
 export const metadata: Metadata = {
-  title: "Serenity Funeral Services | Compassionate Care in Difficult Times",
+  title: "SYLVA-PAT International Limited | Compassionate Funeral Services",
   description:
-    "Providing dignified funeral services with compassion and care. Honoring lives, supporting families through every step of the journey.",
+    "SYLVA-PAT International Limited - Providing dignified funeral services with compassion and care. Serving families across Anambra State, Nigeria.",
   generator: "v0.app",
   icons: {
     icon: [
