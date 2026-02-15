@@ -88,19 +88,19 @@ const funeralCars = [
     image: "/classic-black-funeral-hearse-with-glass-panels.jpg",
   },
   {
-    name: "Modern Hearse",
-    description: "Contemporary design with elegant lines",
-    image: "/placeholder.svg?height=300&width=400",
+    name: "Cadillac Escalade",
+    description: "Luxury black Cadillac Escalade for executive funeral processions",
+    image: "/Escalade.jpg",
   },
   {
-    name: "Luxury Limousine",
-    description: "Spacious black limousine for family transport",
-    image: "/placeholder.svg?height=300&width=400",
+    name: "Hummer Jeep",
+    description: "Bold and commanding black Hummer for distinguished funeral convoys",
+    image: "/Hummer.jpg",
   },
   {
-    name: "Executive Sedan",
-    description: "Premium sedan for dignified family transport",
-    image: "/placeholder.svg?height=300&width=400",
+    name: "Black Suburban",
+    description: "Spacious and elegant black Suburban for family transportation during funeral services",
+    image: "/Suburban.jpg",
   },
 ]
 
